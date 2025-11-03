@@ -1,0 +1,8 @@
+.vscode/
+*DS_Store
+
+# frontend folder because it is in another repo
+doculess-frontend/
+
+# backend folder because it is in another repo
+doculess-backend/
